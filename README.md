@@ -4,10 +4,10 @@ Uma aplicação frontend Web completa para controle de entrada e saída moviment
 
 ## Screenshot
 
-<p align="center">
-![App Screenshot](./src/assets/preview1.png)
-![App Screenshot](./src/assets/preview2.png)
-</p>
+<p align="center">Tela inicial</p>
+<img src="./src/assets/preview1.png" />
+<p align="center">Formulário transação</p>
+<img src="./src/assets/preview2.png" />
 
 ## Licença
 
