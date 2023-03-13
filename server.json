@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-03-12T21:47:08.783Z",
       "id": 5
+    },
+    {
+      "description": "Lançamento no Vercel",
+      "price": 500,
+      "category": "site",
+      "type": "income",
+      "createdAt": "2023-03-13T02:20:31.470Z",
+      "id": 6
     }
   ]
 }
