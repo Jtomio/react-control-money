@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "main": "server.json",
   "engines": {
     "node": "18.x"
   },
@@ -14,8 +13,7 @@
     "lint": "eslint src --ext .tsx,.ts",
     "lint:fix": "eslint src --ext .tsx,.ts --fix",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "start": "node server.json"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.11",
