@@ -7,46 +7,7 @@
       "category": "Venda",
       "price": 14000,
       "createdAt": "2023-03-09T04:45:52.853Z"
-    },
-    {
-      "id": 2,
-      "description": "Desenvolvimento de site",
-      "type": "income",
-      "category": "Venda",
-      "price": 1000,
-      "createdAt": "2023-01-09T04:45:52.853Z"
-    },
-    {
-      "id": 3,
-      "description": "Hamburger",
-      "type": "outcome",
-      "category": "Alimentação",
-      "price": 80,
-      "createdAt": "2023-02-06T06:35:44.505Z"
-    },
-    {
-      "description": "test save",
-      "price": 500,
-      "category": "tester",
-      "type": "income",
-      "createdAt": "2023-03-11T04:14:56.834Z",
-      "id": 4
-    },
-    {
-      "description": "jantar",
-      "price": 50,
-      "category": "alimentação",
-      "type": "outcome",
-      "createdAt": "2023-03-12T21:47:08.783Z",
-      "id": 5
-    },
-    {
-      "description": "Lançamento no Vercel",
-      "price": 500,
-      "category": "site",
-      "type": "income",
-      "createdAt": "2023-03-13T02:20:31.470Z",
-      "id": 6
     }
+
   ]
 }
